@@ -6,9 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/AKQA-Paris/eslint-config-akqa.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Gabriel Slama",
   "license": "ISC",
