@@ -1,6 +1,6 @@
 {
   "name": "@akqa/eslint-config-akqa",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -16,10 +16,9 @@
   ],
   "author": "AKQA",
   "license": "None",
-  "dependencies": {
-    "babel-eslint": "10.1.0"
-  },
   "devDependencies": {
+    "@babel/core": "7.13.10",
+    "@babel/eslint-parser": "7.13.10",
     "eslint": "7.22.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-import": "2.22.1",
@@ -28,8 +27,8 @@
     "prettier": "2.2.1"
   },
   "peerDependencies": {
-    "eslint": "^7.20.0",
-    "eslint-config-prettier": "^8.0.0",
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.22.0",
