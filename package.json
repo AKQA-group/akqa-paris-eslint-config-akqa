@@ -17,8 +17,8 @@
   "author": "AKQA",
   "license": "None",
   "devDependencies": {
-    "@babel/core": "7.13.16",
-    "@babel/eslint-parser": "7.13.14",
+    "@babel/core": "7.17.9",
+    "@babel/eslint-parser": "7.17.0",
     "eslint": "7.28.0",
     "eslint-config-prettier": "8.2.0",
     "eslint-plugin-import": "2.23.4",
